@@ -1,0 +1,11 @@
+[[package]]
+name = "macro_experiment"
+version = "0.1.0"
+
+[[package]]
+name = "macro_user"
+version = "0.1.0"
+dependencies = [
+ "macro_experiment 0.1.0",
+]
+

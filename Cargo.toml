@@ -1,0 +1,7 @@
+[package]
+name = "macro_user"
+version = "0.1.0"
+authors = ["Jason Reed <jcreed@gmail.com>"]
+
+[dependencies]
+macro_experiment = { path = "../macro_experiment" }
